@@ -1,2 +1,2 @@
 # Quizzler
-A fun quiz game through quizzler UI 
+A fun quiz game through Tkinter UI 
